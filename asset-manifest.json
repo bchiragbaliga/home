@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.ab588325.chunk.css",
+    "main.js": "/home/static/js/main.3ed5175d.chunk.js",
+    "main.js.map": "/home/static/js/main.3ed5175d.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/home/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/home/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.bb864b32d39675a42556bfc81bddc5e8.js": "/home/precache-manifest.bb864b32d39675a42556bfc81bddc5e8.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.ab588325.chunk.css.map": "/home/static/css/main.ab588325.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/home/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/chiragbaliga.jpg": "/home/static/media/chiragbaliga.f22fc652.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.5f83a157.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.19e99e5d.chunk.js",
+    "static/css/main.ab588325.chunk.css",
+    "static/js/main.3ed5175d.chunk.js"
+  ]
+}
